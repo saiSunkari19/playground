@@ -1,10 +1,10 @@
-fn add(num: u32) -> u32 {
-    num + 5
-}
 
-fn sum_of_array(arr: &[i32]) -> i32{
-    arr.iter().sum()
-}
+mod fn_sum;
+use crate::fn_sum::sum_of_array;
+
+mod utils;
+
+use crate::utils::fn_add::add;
 
 fn main(){
     let x: i32 = 20;
