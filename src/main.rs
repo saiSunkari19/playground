@@ -1,4 +1,5 @@
 mod fn_sum;
+mod m1_enum;
 use crate::fn_sum::sum_of_array;
 
 mod utils;
