@@ -1,6 +1,7 @@
 
 ### To run 
 `cargo  run` 
+`carro add` to add the pkgs
 
 ### docs
 `cargo doc` and open `cargo doc open`
