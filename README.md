@@ -10,3 +10,7 @@
 `cargo build` and for relase `cargo build --release`
 ### fmt 
 `cargo fmt` 
+
+### Test 
+`cargo test`
+`cargo test <testname> -- --nocapture`

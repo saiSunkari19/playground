@@ -3,6 +3,7 @@ mod m1_enum;
 mod m2_structs;
 mod m3_traits;
 mod m4_polymorphisam;
+mod m6_patternmatching;
 use crate::fn_sum::sum_of_array;
 
 mod utils;
